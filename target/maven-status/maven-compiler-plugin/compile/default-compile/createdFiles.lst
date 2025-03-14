@@ -1,0 +1,11 @@
+com\example\jobmanagementapplication\model\CandidateApplication.class
+com\example\jobmanagementapplication\repository\CandidateApplicationRepository.class
+com\example\jobmanagementapplication\repository\JobPostingRepository.class
+com\example\jobmanagementapplication\exception\ResourceNotFoundException.class
+com\example\jobmanagementapplication\model\JobPosting.class
+com\example\jobmanagementapplication\model\Interview.class
+com\example\jobmanagementapplication\controller\JobPostingController.class
+com\example\jobmanagementapplication\exception\CustomExceptionHandler.class
+com\example\jobmanagementapplication\repository\InterviewRepository.class
+com\example\jobmanagementapplication\service\JobPostingService.class
+com\example\jobmanagementapplication\JobManagementApplication.class
